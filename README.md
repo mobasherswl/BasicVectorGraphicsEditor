@@ -1,7 +1,9 @@
 >----------------------- Ahmed Mobasher Khan -------------------------<
 >---------------------- mobasherswl@yahoo.com ------------------------<
 
-A sample project of "Graphics Editor".
+A sample project of "Graphics Editor" in Assembly language.
+
+This is project was developed during university time while studying Assembly language course. It's very basic in nature but at that time it was huge achievement for me. :)
 
 Features:
 	1. 640x480 mode
